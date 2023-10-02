@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "type": "Petrol",
+    "car_name": "57",
+    "manf_year": 2006,
+    "ratings": 8,
+    "mileage": 8.5,
+    "rent_price": 460
+  },
+  {
+    "id": 2,
+    "type": "EV",
+    "car_name": "Mazda6",
+    "manf_year": 2008,
+    "ratings": 2,
+    "mileage": 6.9,
+    "rent_price": 624
+  },
+  {
+    "id": 3,
+    "type": "",
+    "car_name": "Grand Am",
+    "manf_year": 1991,
+    "ratings": 9,
+    "mileage": 8.7,
+    "rent_price": 380
+  },
+  {
+    "id": 4,
+    "type": "EV",
+    "car_name": "Silverado 1500",
+    "manf_year": 2000,
+    "ratings": 7,
+    "mileage": 10.2,
+    "rent_price": 319
+  },
+  {
+    "id": 5,
+    "type": "",
+    "car_name": "G37",
+    "manf_year": 2012,
+    "ratings": 4,
+    "mileage": 10.5,
+    "rent_price": 880
+  },
+  {
+    "id": 6,
+    "type": "",
+    "car_name": "Corsica",
+    "manf_year": 1993,
+    "ratings": 9,
+    "mileage": 9.9,
+    "rent_price": 696
+  },
+  {
+    "id": 7,
+    "type": "Diesel",
+    "car_name": "Eos",
+    "manf_year": 2009,
+    "ratings": 3,
+    "mileage": 9.4,
+    "rent_price": 760
+  },
+  {
+    "id": 8,
+    "type": "",
+    "car_name": "Dakota",
+    "manf_year": 2005,
+    "ratings": 4,
+    "mileage": 6.2,
+    "rent_price": 891
+  },
+  {
+    "id": 9,
+    "type": "",
+    "car_name": "Terraza",
+    "manf_year": 2007,
+    "ratings": 7,
+    "mileage": 8.7,
+    "rent_price": 933
+  },
+  {
+    "id": 10,
+    "type": "Petrol",
+    "car_name": "Seville",
+    "manf_year": 2004,
+    "ratings": 8,
+    "mileage": 14.0,
+    "rent_price": 834
+  },
+  {
+    "id": 11,
+    "type": "",
+    "car_name": "Sebring",
+    "manf_year": 2006,
+    "ratings": 4,
+    "mileage": 14.6,
+    "rent_price": 860
+  },
+  {
+    "id": 12,
+    "type": "",
+    "car_name": "QX",
+    "manf_year": 2001,
+    "ratings": 4,
+    "mileage": 13.7,
+    "rent_price": 844
+  },
+  {
+    "id": 13,
+    "type": "",
+    "car_name": "530",
+    "manf_year": 2003,
+    "ratings": 1,
+    "mileage": 9.0,
+    "rent_price": 517
+  },
+  {
+    "id": 14,
+    "type": "",
+    "car_name": "Envoy",
+    "manf_year": 2004,
+    "ratings": 5,
+    "mileage": 12.0,
+    "rent_price": 684
+  },
+  {
+    "id": 15,
+    "type": "",
+    "car_name": "Mustang",
+    "manf_year": 2013,
+    "ratings": 5,
+    "mileage": 5.1,
+    "rent_price": 319
+  },
+  {
+    "id": 16,
+    "type": "",
+    "car_name": "Grand Prix",
+    "manf_year": 1972,
+    "ratings": 9,
+    "mileage": 7.8,
+    "rent_price": 961
+  },
+  {
+    "id": 17,
+    "type": "",
+    "car_name": "M",
+    "manf_year": 2011,
+    "ratings": 7,
+    "mileage": 13.0,
+    "rent_price": 701
+  },
+  {
+    "id": 18,
+    "type": "",
+    "car_name": "Premier",
+    "manf_year": 1992,
+    "ratings": 10,
+    "mileage": 6.2,
+    "rent_price": 807
+  },
+  {
+    "id": 19,
+    "type": "",
+    "car_name": "A8",
+    "manf_year": 2008,
+    "ratings": 5,
+    "mileage": 12.9,
+    "rent_price": 683
+  },
+  {
+    "id": 20,
+    "type": "",
+    "car_name": "Golf",
+    "manf_year": 1998,
+    "ratings": 7,
+    "mileage": 7.5,
+    "rent_price": 454
+  },
+  {
+    "id": 21,
+    "type": "",
+    "car_name": "Blazer",
+    "manf_year": 2002,
+    "ratings": 6,
+    "mileage": 7.8,
+    "rent_price": 477
+  },
+  {
+    "id": 22,
+    "type": "",
+    "car_name": "Express 2500",
+    "manf_year": 1998,
+    "ratings": 6,
+    "mileage": 9.2,
+    "rent_price": 460
+  },
+  {
+    "id": 23,
+    "type": "Diesel",
+    "car_name": "Monte Carlo",
+    "manf_year": 1995,
+    "ratings": 3,
+    "mileage": 13.6,
+    "rent_price": 589
+  },
+  {
+    "id": 24,
+    "type": "EV",
+    "car_name": "Frontier",
+    "manf_year": 2008,
+    "ratings": 2,
+    "mileage": 11.9,
+    "rent_price": 414
+  },
+  {
+    "id": 25,
+    "type": "",
+    "car_name": "Z4",
+    "manf_year": 2004,
+    "ratings": 4,
+    "mileage": 12.4,
+    "rent_price": 682
+  },
+  {
+    "id": 26,
+    "type": "",
+    "car_name": "Accent",
+    "manf_year": 2000,
+    "ratings": 10,
+    "mileage": 12.2,
+    "rent_price": 543
+  },
+  {
+    "id": 27,
+    "type": "EV",
+    "car_name": "Montero",
+    "manf_year": 1994,
+    "ratings": 2,
+    "mileage": 11.1,
+    "rent_price": 803
+  },
+  {
+    "id": 28,
+    "type": "Petrol",
+    "car_name": "57",
+    "manf_year": 2008,
+    "ratings": 5,
+    "mileage": 7.0,
+    "rent_price": 376
+  },
+  {
+    "id": 29,
+    "type": "",
+    "car_name": "Explorer",
+    "manf_year": 1998,
+    "ratings": 4,
+    "mileage": 6.8,
+    "rent_price": 892
+  },
+  {
+    "id": 30,
+    "type": "",
+    "car_name": "HS",
+    "manf_year": 2010,
+    "ratings": 6,
+    "mileage": 7.8,
+    "rent_price": 497
+  },
+  {
+    "id": 31,
+    "type": "",
+    "car_name": "Avalanche",
+    "manf_year": 2012,
+    "ratings": 4,
+    "mileage": 6.9,
+    "rent_price": 629
+  },
+  {
+    "id": 32,
+    "type": "",
+    "car_name": "Voyager",
+    "manf_year": 1993,
+    "ratings": 6,
+    "mileage": 10.6,
+    "rent_price": 579
+  },
+  {
+    "id": 33,
+    "type": "Petrol",
+    "car_name": "Outback",
+    "manf_year": 2003,
+    "ratings": 8,
+    "mileage": 10.5,
+    "rent_price": 464
+  },
+  {
+    "id": 34,
+    "type": "",
+    "car_name": "Murciélago LP640",
+    "manf_year": 2008,
+    "ratings": 6,
+    "mileage": 8.8,
+    "rent_price": 867
+  },
+  {
+    "id": 35,
+    "type": "",
+    "car_name": "300M",
+    "manf_year": 1999,
+    "ratings": 1,
+    "mileage": 13.0,
+    "rent_price": 381
+  },
+  {
+    "id": 36,
+    "type": "EV",
+    "car_name": "V8 Vantage",
+    "manf_year": 2006,
+    "ratings": 2,
+    "mileage": 10.1,
+    "rent_price": 899
+  },
+  {
+    "id": 37,
+    "type": "Diesel",
+    "car_name": "Legend",
+    "manf_year": 1994,
+    "ratings": 3,
+    "mileage": 6.5,
+    "rent_price": 576
+  },
+  {
+    "id": 38,
+    "type": "",
+    "car_name": "Defender",
+    "manf_year": 1993,
+    "ratings": 7,
+    "mileage": 5.6,
+    "rent_price": 901
+  },
+  {
+    "id": 39,
+    "type": "",
+    "car_name": "SSR",
+    "manf_year": 2006,
+    "ratings": 6,
+    "mileage": 9.0,
+    "rent_price": 406
+  },
+  {
+    "id": 40,
+    "type": "",
+    "car_name": "Passat",
+    "manf_year": 1991,
+    "ratings": 4,
+    "mileage": 9.7,
+    "rent_price": 702
+  },
+  {
+    "id": 41,
+    "type": "",
+    "car_name": "Mustang",
+    "manf_year": 1997,
+    "ratings": 5,
+    "mileage": 12.5,
+    "rent_price": 655
+  },
+  {
+    "id": 42,
+    "type": "",
+    "car_name": "Sienna",
+    "manf_year": 1999,
+    "ratings": 5,
+    "mileage": 9.0,
+    "rent_price": 890
+  },
+  {
+    "id": 43,
+    "type": "",
+    "car_name": "Landaulet",
+    "manf_year": 2012,
+    "ratings": 7,
+    "mileage": 8.8,
+    "rent_price": 552
+  },
+  {
+    "id": 44,
+    "type": "Diesel",
+    "car_name": "Amanti",
+    "manf_year": 2007,
+    "ratings": 3,
+    "mileage": 14.3,
+    "rent_price": 750
+  },
+  {
+    "id": 45,
+    "type": "",
+    "car_name": "LS",
+    "manf_year": 2009,
+    "ratings": 1,
+    "mileage": 11.2,
+    "rent_price": 928
+  },
+  {
+    "id": 46,
+    "type": "",
+    "car_name": "Elise",
+    "manf_year": 2011,
+    "ratings": 7,
+    "mileage": 9.1,
+    "rent_price": 308
+  },
+  {
+    "id": 47,
+    "type": "",
+    "car_name": "LeMans",
+    "manf_year": 1991,
+    "ratings": 9,
+    "mileage": 9.6,
+    "rent_price": 957
+  },
+  {
+    "id": 48,
+    "type": "Diesel",
+    "car_name": "Silverado 2500",
+    "manf_year": 2004,
+    "ratings": 3,
+    "mileage": 12.5,
+    "rent_price": 979
+  },
+  {
+    "id": 49,
+    "type": "",
+    "car_name": "Vega",
+    "manf_year": 1971,
+    "ratings": 7,
+    "mileage": 10.4,
+    "rent_price": 585
+  },
+  {
+    "id": 50,
+    "type": "",
+    "car_name": "Escalade",
+    "manf_year": 2004,
+    "ratings": 9,
+    "mileage": 6.0,
+    "rent_price": 640
+  },
+  {
+    "id": 51,
+    "type": "",
+    "car_name": "Suburban 2500",
+    "manf_year": 2004,
+    "ratings": 5,
+    "mileage": 7.3,
+    "rent_price": 619
+  },
+  {
+    "id": 52,
+    "type": "Diesel",
+    "car_name": "Jetta",
+    "manf_year": 2003,
+    "ratings": 3,
+    "mileage": 14.6,
+    "rent_price": 402
+  },
+  {
+    "id": 53,
+    "type": "Petrol",
+    "car_name": "Lanos",
+    "manf_year": 1999,
+    "ratings": 8,
+    "mileage": 10.4,
+    "rent_price": 788
+  },
+  {
+    "id": 54,
+    "type": "Diesel",
+    "car_name": "SL-Class",
+    "manf_year": 2009,
+    "ratings": 3,
+    "mileage": 11.9,
+    "rent_price": 688
+  },
+  {
+    "id": 55,
+    "type": "",
+    "car_name": "Accord",
+    "manf_year": 1989,
+    "ratings": 5,
+    "mileage": 10.4,
+    "rent_price": 794
+  },
+  {
+    "id": 56,
+    "type": "Petrol",
+    "car_name": "57",
+    "manf_year": 2011,
+    "ratings": 10,
+    "mileage": 14.4,
+    "rent_price": 585
+  },
+  {
+    "id": 57,
+    "type": "Petrol",
+    "car_name": "Neon",
+    "manf_year": 1998,
+    "ratings": 8,
+    "mileage": 7.2,
+    "rent_price": 784
+  },
+  {
+    "id": 58,
+    "type": "",
+    "car_name": "LS",
+    "manf_year": 2000,
+    "ratings": 4,
+    "mileage": 10.5,
+    "rent_price": 532
+  },
+  {
+    "id": 59,
+    "type": "Petrol",
+    "car_name": "Echo",
+    "manf_year": 2000,
+    "ratings": 8,
+    "mileage": 7.6,
+    "rent_price": 726
+  },
+  {
+    "id": 60,
+    "type": "Petrol",
+    "car_name": "Escalade",
+    "manf_year": 2006,
+    "ratings": 8,
+    "mileage": 10.5,
+    "rent_price": 313
+  },
+  {
+    "id": 61,
+    "type": "",
+    "car_name": "Phantom",
+    "manf_year": 2005,
+    "ratings": 9,
+    "mileage": 12.9,
+    "rent_price": 703
+  },
+  {
+    "id": 62,
+    "type": "",
+    "car_name": "Malibu",
+    "manf_year": 2000,
+    "ratings": 6,
+    "mileage": 5.1,
+    "rent_price": 378
+  },
+  {
+    "id": 63,
+    "type": "EV",
+    "car_name": "Blazer",
+    "manf_year": 1994,
+    "ratings": 2,
+    "mileage": 7.9,
+    "rent_price": 433
+  },
+  {
+    "id": 64,
+    "type": "",
+    "car_name": "Sonata",
+    "manf_year": 2005,
+    "ratings": 1,
+    "mileage": 12.9,
+    "rent_price": 700
+  },
+  {
+    "id": 65,
+    "type": "Diesel",
+    "car_name": "Grand Marquis",
+    "manf_year": 1999,
+    "ratings": 3,
+    "mileage": 9.3,
+    "rent_price": 631
+  },
+  {
+    "id": 66,
+    "type": "EV",
+    "car_name": "Boxster",
+    "manf_year": 2005,
+    "ratings": 2,
+    "mileage": 14.2,
+    "rent_price": 723
+  },
+  {
+    "id": 67,
+    "type": "",
+    "car_name": "STS-V",
+    "manf_year": 2008,
+    "ratings": 9,
+    "mileage": 9.6,
+    "rent_price": 332
+  },
+  {
+    "id": 68,
+    "type": "Diesel",
+    "car_name": "Dakota",
+    "manf_year": 2009,
+    "ratings": 3,
+    "mileage": 5.4,
+    "rent_price": 462
+  },
+  {
+    "id": 69,
+    "type": "",
+    "car_name": "Mustang",
+    "manf_year": 1991,
+    "ratings": 4,
+    "mileage": 11.6,
+    "rent_price": 316
+  },
+  {
+    "id": 70,
+    "type": "",
+    "car_name": "Exige",
+    "manf_year": 2008,
+    "ratings": 6,
+    "mileage": 5.3,
+    "rent_price": 759
+  },
+  {
+    "id": 71,
+    "type": "",
+    "car_name": "Milan",
+    "manf_year": 2010,
+    "ratings": 10,
+    "mileage": 9.5,
+    "rent_price": 764
+  },
+  {
+    "id": 72,
+    "type": "",
+    "car_name": "Alero",
+    "manf_year": 2000,
+    "ratings": 7,
+    "mileage": 12.6,
+    "rent_price": 838
+  },
+  {
+    "id": 73,
+    "type": "",
+    "car_name": "Explorer",
+    "manf_year": 2007,
+    "ratings": 5,
+    "mileage": 11.7,
+    "rent_price": 781
+  },
+  {
+    "id": 74,
+    "type": "",
+    "car_name": "Yukon Denali",
+    "manf_year": 2006,
+    "ratings": 6,
+    "mileage": 10.1,
+    "rent_price": 777
+  },
+  {
+    "id": 75,
+    "type": "",
+    "car_name": "Concorde",
+    "manf_year": 2003,
+    "ratings": 7,
+    "mileage": 6.2,
+    "rent_price": 558
+  },
+  {
+    "id": 76,
+    "type": "",
+    "car_name": "Lancer Evolution",
+    "manf_year": 2005,
+    "ratings": 10,
+    "mileage": 12.1,
+    "rent_price": 582
+  },
+  {
+    "id": 77,
+    "type": "",
+    "car_name": "Mirage",
+    "manf_year": 1998,
+    "ratings": 5,
+    "mileage": 6.6,
+    "rent_price": 834
+  },
+  {
+    "id": 78,
+    "type": "",
+    "car_name": "M-Class",
+    "manf_year": 2000,
+    "ratings": 6,
+    "mileage": 12.5,
+    "rent_price": 797
+  },
+  {
+    "id": 79,
+    "type": "",
+    "car_name": "Mighty Max",
+    "manf_year": 1996,
+    "ratings": 10,
+    "mileage": 6.5,
+    "rent_price": 656
+  },
+  {
+    "id": 80,
+    "type": "",
+    "car_name": "F350",
+    "manf_year": 1999,
+    "ratings": 7,
+    "mileage": 5.7,
+    "rent_price": 428
+  },
+  {
+    "id": 81,
+    "type": "",
+    "car_name": "Dakota",
+    "manf_year": 2007,
+    "ratings": 1,
+    "mileage": 12.0,
+    "rent_price": 894
+  },
+  {
+    "id": 82,
+    "type": "Petrol",
+    "car_name": "Biturbo",
+    "manf_year": 1986,
+    "ratings": 8,
+    "mileage": 11.1,
+    "rent_price": 790
+  },
+  {
+    "id": 83,
+    "type": "",
+    "car_name": "Sportvan G20",
+    "manf_year": 1993,
+    "ratings": 5,
+    "mileage": 9.5,
+    "rent_price": 745
+  },
+  {
+    "id": 84,
+    "type": "EV",
+    "car_name": "Eldorado",
+    "manf_year": 1999,
+    "ratings": 2,
+    "mileage": 11.0,
+    "rent_price": 564
+  },
+  {
+    "id": 85,
+    "type": "",
+    "car_name": "Bronco",
+    "manf_year": 1995,
+    "ratings": 9,
+    "mileage": 12.4,
+    "rent_price": 681
+  },
+  {
+    "id": 86,
+    "type": "",
+    "car_name": "Sierra 2500",
+    "manf_year": 2001,
+    "ratings": 6,
+    "mileage": 10.5,
+    "rent_price": 563
+  },
+  {
+    "id": 87,
+    "type": "",
+    "car_name": "Swift",
+    "manf_year": 1988,
+    "ratings": 4,
+    "mileage": 11.8,
+    "rent_price": 904
+  },
+  {
+    "id": 88,
+    "type": "",
+    "car_name": "Defender 90",
+    "manf_year": 1995,
+    "ratings": 9,
+    "mileage": 8.7,
+    "rent_price": 475
+  },
+  {
+    "id": 89,
+    "type": "",
+    "car_name": "Camaro",
+    "manf_year": 1998,
+    "ratings": 4,
+    "mileage": 5.9,
+    "rent_price": 330
+  },
+  {
+    "id": 90,
+    "type": "",
+    "car_name": "SL-Class",
+    "manf_year": 2004,
+    "ratings": 5,
+    "mileage": 14.3,
+    "rent_price": 478
+  },
+  {
+    "id": 91,
+    "type": "Petrol",
+    "car_name": "Town & Country",
+    "manf_year": 2008,
+    "ratings": 8,
+    "mileage": 12.6,
+    "rent_price": 578
+  },
+  {
+    "id": 92,
+    "type": "",
+    "car_name": "Town & Country",
+    "manf_year": 2005,
+    "ratings": 4,
+    "mileage": 7.3,
+    "rent_price": 846
+  },
+  {
+    "id": 93,
+    "type": "",
+    "car_name": "Eclipse",
+    "manf_year": 2004,
+    "ratings": 10,
+    "mileage": 5.9,
+    "rent_price": 783
+  },
+  {
+    "id": 94,
+    "type": "",
+    "car_name": "Starion",
+    "manf_year": 1988,
+    "ratings": 6,
+    "mileage": 5.1,
+    "rent_price": 917
+  },
+  {
+    "id": 95,
+    "type": "",
+    "car_name": "D250",
+    "manf_year": 1993,
+    "ratings": 1,
+    "mileage": 8.7,
+    "rent_price": 992
+  },
+  {
+    "id": 96,
+    "type": "",
+    "car_name": "CL-Class",
+    "manf_year": 2007,
+    "ratings": 4,
+    "mileage": 11.2,
+    "rent_price": 811
+  },
+  {
+    "id": 97,
+    "type": "",
+    "car_name": "Charger",
+    "manf_year": 2007,
+    "ratings": 10,
+    "mileage": 14.6,
+    "rent_price": 764
+  },
+  {
+    "id": 98,
+    "type": "",
+    "car_name": "Sable",
+    "manf_year": 1995,
+    "ratings": 10,
+    "mileage": 8.5,
+    "rent_price": 436
+  },
+  {
+    "id": 99,
+    "type": "",
+    "car_name": "A8",
+    "manf_year": 2011,
+    "ratings": 10,
+    "mileage": 10.2,
+    "rent_price": 431
+  },
+  {
+    "id": 100,
+    "type": "",
+    "car_name": "Altima",
+    "manf_year": 2009,
+    "ratings": 7,
+    "mileage": 9.2,
+    "rent_price": 464
+  }
+]

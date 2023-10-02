@@ -1,13 +1,85 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.app {
+  background: #d5edfa;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.nav-bar {
+  margin: 15px;
+  box-shadow: 8px 8px 5px rgb(180, 198, 204);
+}
+.search-form {
+  margin-left: 30px;
+}
+.search-input {
+  padding: 10px 30px;
+  width: 330px;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 15px;
+}
+.car-card {
+  margin: 40px 20px;
+  max-width: 380px;
+  background: rgb(160, 212, 242);
+  padding: 40px;
+  border-radius: 20px;
+}
+.car-img {
+  width: 280px;
+  border: none;
+  border-radius: 10px;
+}
+.car-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.car-details {
+  margin-top: 20px;
+  width: 180px;
+  gap: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.cars-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.car-year {
+  border: 1px solid black;
+  padding: 0 4px;
+  border-radius: 20px;
+}
+.car-name {
+  margin-top: 10px;
+  font-size: 19px;
+  font-weight: 600;
+}
+.pricing-and-btns {
+  display: flex;
+  justify-content: space-between;
+}
+.btns {
+  display: flex;
+  gap: 5px;
+}
+.rent-btn {
+  border: none;
+  background: #1690d1;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 10px;
+}
+.wishlist-btn {
+  border: none;
+  background: #1690d1;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 10px;
+}
+.price {
+  font-weight: 500;
+  font-size: 20px;
 }
