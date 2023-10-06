@@ -1,5 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto:wght@100;300;400;500;700&display=swap");
+
 .app {
   background: #d5edfa;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  /* font-family: 'Roboto', sans-serif; */
 }
 
 .nav-bar {
@@ -12,74 +19,5 @@
 .search-input {
   padding: 10px 30px;
   width: 330px;
-  border: 1px solid rgb(204, 204, 204);
   border-radius: 15px;
-}
-.car-card {
-  margin: 40px 20px;
-  max-width: 380px;
-  background: rgb(160, 212, 242);
-  padding: 40px;
-  border-radius: 20px;
-}
-.car-img {
-  width: 280px;
-  border: none;
-  border-radius: 10px;
-}
-.car-title {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.car-details {
-  margin-top: 20px;
-  width: 180px;
-  gap: 5px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-}
-.cars-container {
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  flex-wrap: wrap;
-}
-.car-year {
-  border: 1px solid black;
-  padding: 0 4px;
-  border-radius: 20px;
-}
-.car-name {
-  margin-top: 10px;
-  font-size: 19px;
-  font-weight: 600;
-}
-.pricing-and-btns {
-  display: flex;
-  justify-content: space-between;
-}
-.btns {
-  display: flex;
-  gap: 5px;
-}
-.rent-btn {
-  border: none;
-  background: #1690d1;
-  color: #fff;
-  padding: 4px 10px;
-  border-radius: 10px;
-}
-.wishlist-btn {
-  border: none;
-  background: #1690d1;
-  color: #fff;
-  padding: 4px 10px;
-  border-radius: 10px;
-}
-.price {
-  font-weight: 500;
-  font-size: 20px;
 }

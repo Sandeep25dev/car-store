@@ -1,4 +1,17 @@
-export function NavBar() {
+import { useState } from "react";
+
+export function NavBar({ setData, MockData }) {
+  const [searchInp, setSearchInp] = useState("");
+  function handleChange(event) {
+    event.preventDefault();
+    const searchStr = event.target.value;
+    setSearchInp(searchStr);
+    console.log("searchStr....", searchStr);
+    const filterData = MockData.filter((item) => item.car_name === searchStr);
+    console.log(filterData);
+    console.log(searchInp);
+    setData(filterData);
+  }
   return (
     <>
       <div className="nav-bar">
@@ -9,6 +22,7 @@ export function NavBar() {
           <form role="search" className="search-form">
             <input
               className="search-input"
+              onChange={(event) => handleChange(event)}
               type="search"
               placeholder="Search"
               aria-label="Search"
@@ -58,7 +72,10 @@ export function NavBar() {
                       </a>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="#">
+                      <a
+                        className="dropdown-item"
+                        href="https://www.google.com/"
+                      >
                         Something else here
                       </a>
                     </li>
@@ -91,7 +108,10 @@ export function NavBar() {
                       </a>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="#">
+                      <a
+                        className="dropdown-item"
+                        href="https://www.google.com/"
+                      >
                         Something else here
                       </a>
                     </li>

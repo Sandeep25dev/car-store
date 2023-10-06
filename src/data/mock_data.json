@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "type": "",
+    "type": "Petrol",
     "car_name": "Grand Am",
     "manf_year": 1991,
     "ratings": 9,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "type": "",
+    "type": "Diesel",
     "car_name": "G37",
     "manf_year": 2012,
     "ratings": 4,
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "type": "",
+    "type": "Diesel",
     "car_name": "Corsica",
     "manf_year": 1993,
     "ratings": 9,
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "type": "",
+    "type": "Petrol",
     "car_name": "Dakota",
     "manf_year": 2005,
     "ratings": 4,
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "type": "",
+    "type": "Petrol",
     "car_name": "Terraza",
     "manf_year": 2007,
     "ratings": 7,
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "type": "",
+    "type": "EV",
     "car_name": "Sebring",
     "manf_year": 2006,
     "ratings": 4,
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "type": "",
+    "type": "EV",
     "car_name": "QX",
     "manf_year": 2001,
     "ratings": 4,
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "type": "",
+    "type": "Hybrid",
     "car_name": "530",
     "manf_year": 2003,
     "ratings": 1,
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-    "type": "",
+    "type": "Hybrid",
     "car_name": "Envoy",
     "manf_year": 2004,
     "ratings": 5,
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-    "type": "",
+    "type": "Diesel",
     "car_name": "Mustang",
     "manf_year": 2013,
     "ratings": 5,
@@ -136,7 +136,7 @@
   },
   {
     "id": 16,
-    "type": "",
+    "type": "Diesel",
     "car_name": "Grand Prix",
     "manf_year": 1972,
     "ratings": 9,
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-    "type": "",
+    "type": "Petrol",
     "car_name": "M",
     "manf_year": 2011,
     "ratings": 7,
@@ -739,7 +739,7 @@
   },
   {
     "id": 83,
-    "type": "",
+    "type": "Hybrid",
     "car_name": "Sportvan G20",
     "manf_year": 1993,
     "ratings": 5,
@@ -757,7 +757,7 @@
   },
   {
     "id": 85,
-    "type": "",
+    "type": "Petrol",
     "car_name": "Bronco",
     "manf_year": 1995,
     "ratings": 9,
@@ -766,7 +766,7 @@
   },
   {
     "id": 86,
-    "type": "",
+    "type": "Petrol",
     "car_name": "Sierra 2500",
     "manf_year": 2001,
     "ratings": 6,
@@ -775,7 +775,7 @@
   },
   {
     "id": 87,
-    "type": "",
+    "type": "Hybrid",
     "car_name": "Swift",
     "manf_year": 1988,
     "ratings": 4,
@@ -784,7 +784,7 @@
   },
   {
     "id": 88,
-    "type": "",
+    "type": "Hybrid",
     "car_name": "Defender 90",
     "manf_year": 1995,
     "ratings": 9,
@@ -793,7 +793,7 @@
   },
   {
     "id": 89,
-    "type": "",
+    "type": "Hybrid",
     "car_name": "Camaro",
     "manf_year": 1998,
     "ratings": 4,
@@ -802,7 +802,7 @@
   },
   {
     "id": 90,
-    "type": "",
+    "type": "Petrol",
     "car_name": "SL-Class",
     "manf_year": 2004,
     "ratings": 5,
@@ -820,7 +820,7 @@
   },
   {
     "id": 92,
-    "type": "",
+    "type": "Petrol",
     "car_name": "Town & Country",
     "manf_year": 2005,
     "ratings": 4,
@@ -829,7 +829,7 @@
   },
   {
     "id": 93,
-    "type": "",
+    "type": "Petrol",
     "car_name": "Eclipse",
     "manf_year": 2004,
     "ratings": 10,
@@ -838,7 +838,7 @@
   },
   {
     "id": 94,
-    "type": "",
+    "type": "Hybrid",
     "car_name": "Starion",
     "manf_year": 1988,
     "ratings": 6,
@@ -847,7 +847,7 @@
   },
   {
     "id": 95,
-    "type": "",
+    "type": "Diesel",
     "car_name": "D250",
     "manf_year": 1993,
     "ratings": 1,
@@ -856,7 +856,7 @@
   },
   {
     "id": 96,
-    "type": "",
+    "type": "Diesel",
     "car_name": "CL-Class",
     "manf_year": 2007,
     "ratings": 4,
@@ -865,7 +865,7 @@
   },
   {
     "id": 97,
-    "type": "",
+    "type": "Petrol",
     "car_name": "Charger",
     "manf_year": 2007,
     "ratings": 10,
@@ -874,7 +874,7 @@
   },
   {
     "id": 98,
-    "type": "",
+    "type": "Hybrid",
     "car_name": "Sable",
     "manf_year": 1995,
     "ratings": 10,
@@ -883,7 +883,7 @@
   },
   {
     "id": 99,
-    "type": "",
+    "type": "Hybrid",
     "car_name": "A8",
     "manf_year": 2011,
     "ratings": 10,
@@ -892,7 +892,7 @@
   },
   {
     "id": 100,
-    "type": "",
+    "type": "Petrol",
     "car_name": "Altima",
     "manf_year": 2009,
     "ratings": 7,
